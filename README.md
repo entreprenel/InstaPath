@@ -23,6 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![ig4](https://user-images.githubusercontent.com/100297534/195087188-584dc2f9-50ae-4aa0-84b0-993281c1b0d0.gif)
+
 ![ig1](https://user-images.githubusercontent.com/100297534/194986964-62b9f915-281e-430b-9bee-a62fdf3e5914.gif)
 
 ![ig2](https://user-images.githubusercontent.com/100297534/194987377-209bdd9d-5a79-471a-b874-8a304b0a07f5.gif)
